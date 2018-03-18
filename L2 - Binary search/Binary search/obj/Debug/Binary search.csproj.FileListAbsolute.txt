@@ -1,0 +1,14 @@
+D:\git\prog2018\L2 - Binary search\Binary search\bin\Debug\Binary search.exe.config
+D:\git\prog2018\L2 - Binary search\Binary search\bin\Debug\Binary search.exe
+D:\git\prog2018\L2 - Binary search\Binary search\bin\Debug\Binary search.pdb
+D:\git\prog2018\L2 - Binary search\Binary search\obj\Debug\Binary search.csprojResolveAssemblyReference.cache
+D:\git\prog2018\L2 - Binary search\Binary search\obj\Debug\Binary search.csproj.CoreCompileInputs.cache
+D:\git\prog2018\L2 - Binary search\Binary search\obj\Debug\Binary search.exe
+D:\git\prog2018\L2 - Binary search\Binary search\obj\Debug\Binary search.pdb
+C:\Users\sweet\Desktop\L2 - Binary search\Binary search\bin\Debug\Binary search.exe.config
+C:\Users\sweet\Desktop\L2 - Binary search\Binary search\bin\Debug\Binary search.exe
+C:\Users\sweet\Desktop\L2 - Binary search\Binary search\bin\Debug\Binary search.pdb
+C:\Users\sweet\Desktop\L2 - Binary search\Binary search\obj\Debug\Binary search.csprojResolveAssemblyReference.cache
+C:\Users\sweet\Desktop\L2 - Binary search\Binary search\obj\Debug\Binary search.csproj.CoreCompileInputs.cache
+C:\Users\sweet\Desktop\L2 - Binary search\Binary search\obj\Debug\Binary search.exe
+C:\Users\sweet\Desktop\L2 - Binary search\Binary search\obj\Debug\Binary search.pdb
