@@ -21,22 +21,23 @@ namespace Binary_search
             int middleIndex, firstIndex, lastIndex;
             firstIndex = 0;
             lastIndex = array.Length;
+            int answer = -1;
 
-            while (firstIndex != lastIndex)
+            while (firstIndex < lastIndex)
             {
-                middleIndex = (lastIndex+firstIndex) / 2;               
+                middleIndex = (lastIndex + firstIndex) / 2;
 
                 if (array[middleIndex] == value)
-                    return middleIndex;
-              
-                else if (array[middleIndex] < value)             
+                    answer = middleIndex;
+
+                if (array[middleIndex] < value)
                     firstIndex = middleIndex + 1;
 
-                else if (array[middleIndex] > value)
+                if (array[middleIndex] >= value)
                     lastIndex = middleIndex;
             }
 
-            return -1;
+            return answer;
 
         }
 
@@ -71,8 +72,7 @@ namespace Binary_search
         {
             //Тестирование поиска с повторяющимися элементами
             int[] justNumbers = new[] { 1, 1, 3, 6, 9 };
-            int result = BinarySearch(justNumbers, 1);
-            if (result != 1 && result != 0)
+            if (BinarySearch(justNumbers, 1) != 0)
                 Console.WriteLine("! Поиск не нашёл число 1 среди чисел { 1, 1, 3, 6, 9 }.");
             else
                 Console.WriteLine("Поиск повторяющегося элемента работает корректно");
@@ -81,7 +81,7 @@ namespace Binary_search
         private static void TestEmptyArray()
         {
             //Тестирование поиска в пустом массиве
-            int[] emptyArray = new int[0];           
+            int[] emptyArray = new int[0];
             if (BinarySearch(emptyArray, 1) != -1)
                 Console.WriteLine("! Поиск нашёл число в пустом массиве");
             else

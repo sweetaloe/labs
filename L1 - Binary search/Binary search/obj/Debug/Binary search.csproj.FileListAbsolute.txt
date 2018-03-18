@@ -12,3 +12,10 @@ C:\Users\sweet\Desktop\L2 - Binary search\Binary search\obj\Debug\Binary search.
 C:\Users\sweet\Desktop\L2 - Binary search\Binary search\obj\Debug\Binary search.csproj.CoreCompileInputs.cache
 C:\Users\sweet\Desktop\L2 - Binary search\Binary search\obj\Debug\Binary search.exe
 C:\Users\sweet\Desktop\L2 - Binary search\Binary search\obj\Debug\Binary search.pdb
+D:\git\omgwhat\L1 - Binary search\Binary search\bin\Debug\Binary search.exe.config
+D:\git\omgwhat\L1 - Binary search\Binary search\bin\Debug\Binary search.exe
+D:\git\omgwhat\L1 - Binary search\Binary search\bin\Debug\Binary search.pdb
+D:\git\omgwhat\L1 - Binary search\Binary search\obj\Debug\Binary search.csprojResolveAssemblyReference.cache
+D:\git\omgwhat\L1 - Binary search\Binary search\obj\Debug\Binary search.csproj.CoreCompileInputs.cache
+D:\git\omgwhat\L1 - Binary search\Binary search\obj\Debug\Binary search.exe
+D:\git\omgwhat\L1 - Binary search\Binary search\obj\Debug\Binary search.pdb
