@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B4F27BDA-7D41-47BF-B4E7-83B052C3E373}</ProjectGuid>
+    <ProjectGuid>{2C5DE949-1410-4B05-85B9-6EA9FFBB006B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>QuickSort</RootNamespace>
-    <AssemblyName>QuickSort</AssemblyName>
+    <RootNamespace>Quick_sort</RootNamespace>
+    <AssemblyName>Quick sort</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
