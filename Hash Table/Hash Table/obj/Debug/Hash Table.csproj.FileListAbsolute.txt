@@ -5,3 +5,10 @@ C:\Users\sweet\source\repos\Hash Table\Hash Table\bin\Debug\Hash Table.exe
 C:\Users\sweet\source\repos\Hash Table\Hash Table\bin\Debug\Hash Table.pdb
 C:\Users\sweet\source\repos\Hash Table\Hash Table\obj\Debug\Hash Table.exe
 C:\Users\sweet\source\repos\Hash Table\Hash Table\obj\Debug\Hash Table.pdb
+D:\git\omgwhat\Hash Table\Hash Table\bin\Debug\Hash Table.exe.config
+D:\git\omgwhat\Hash Table\Hash Table\bin\Debug\Hash Table.exe
+D:\git\omgwhat\Hash Table\Hash Table\bin\Debug\Hash Table.pdb
+D:\git\omgwhat\Hash Table\Hash Table\obj\Debug\Hash Table.csprojResolveAssemblyReference.cache
+D:\git\omgwhat\Hash Table\Hash Table\obj\Debug\Hash Table.csproj.CoreCompileInputs.cache
+D:\git\omgwhat\Hash Table\Hash Table\obj\Debug\Hash Table.exe
+D:\git\omgwhat\Hash Table\Hash Table\obj\Debug\Hash Table.pdb

@@ -1,7 +1,6 @@
 ﻿using System;
 using Hash_Table;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System.Collections.Generic;
 
 namespace HashTableTests
 {
