@@ -1,0 +1,20 @@
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\obj\Debug\HashTableTests.csprojResolveAssemblyReference.cache
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\obj\Debug\HashTableTests.csproj.CoreCompileInputs.cache
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\bin\Debug\HashTableTests.dll
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\bin\Debug\HashTableTests.pdb
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\bin\Debug\Hash Table.exe
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\bin\Debug\Hash Table.pdb
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\bin\Debug\Hash Table.exe.config
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\obj\Debug\HashTableTests.csproj.CopyComplete
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\obj\Debug\HashTableTests.dll
+C:\Users\sweet\source\repos\Hash Table\HashTableTests\obj\Debug\HashTableTests.pdb
