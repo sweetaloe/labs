@@ -1,0 +1,6 @@
+D:\git\omgwhat\Order Cakes Class\Order Cakes Class Library\bin\Debug\Order Cakes Class Library.dll
+D:\git\omgwhat\Order Cakes Class\Order Cakes Class Library\bin\Debug\Order Cakes Class Library.pdb
+D:\git\omgwhat\Order Cakes Class\Order Cakes Class Library\obj\Debug\Order Cakes.csprojResolveAssemblyReference.cache
+D:\git\omgwhat\Order Cakes Class\Order Cakes Class Library\obj\Debug\Order Cakes.csproj.CoreCompileInputs.cache
+D:\git\omgwhat\Order Cakes Class\Order Cakes Class Library\obj\Debug\Order Cakes Class Library.dll
+D:\git\omgwhat\Order Cakes Class\Order Cakes Class Library\obj\Debug\Order Cakes Class Library.pdb

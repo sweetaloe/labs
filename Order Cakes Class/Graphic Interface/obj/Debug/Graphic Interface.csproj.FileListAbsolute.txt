@@ -1,0 +1,14 @@
+D:\git\omgwhat\Order Cakes Class\Graphic Interface\bin\Debug\Graphic Interface.exe.config
+D:\git\omgwhat\Order Cakes Class\Graphic Interface\bin\Debug\Graphic Interface.exe
+D:\git\omgwhat\Order Cakes Class\Graphic Interface\bin\Debug\Graphic Interface.pdb
+D:\git\omgwhat\Order Cakes Class\Graphic Interface\obj\Debug\Graphic Interface.csprojResolveAssemblyReference.cache
+D:\git\omgwhat\Order Cakes Class\Graphic Interface\obj\Debug\Graphic_Interface.Form1.resources
+D:\git\omgwhat\Order Cakes Class\Graphic Interface\obj\Debug\Graphic_Interface.Properties.Resources.resources
+D:\git\omgwhat\Order Cakes Class\Graphic Interface\obj\Debug\Graphic Interface.csproj.GenerateResource.cache
+D:\git\omgwhat\Order Cakes Class\Graphic Interface\obj\Debug\Graphic Interface.csproj.CoreCompileInputs.cache
+D:\git\omgwhat\Order Cakes Class\Graphic Interface\obj\Debug\Graphic Interface.exe
+D:\git\omgwhat\Order Cakes Class\Graphic Interface\obj\Debug\Graphic Interface.pdb
+D:\git\omgwhat\Order Cakes Class\Graphic Interface\obj\Debug\Graphic_Interface.Form2.resources
+D:\git\omgwhat\Order Cakes Class\Graphic Interface\bin\Debug\Order Cakes Class Library.dll
+D:\git\omgwhat\Order Cakes Class\Graphic Interface\bin\Debug\Order Cakes Class Library.pdb
+D:\git\omgwhat\Order Cakes Class\Graphic Interface\obj\Debug\Graphic Interface.csproj.CopyComplete
