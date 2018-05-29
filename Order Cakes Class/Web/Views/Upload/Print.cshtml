@@ -1,0 +1,41 @@
+﻿@model OrderCakes.CakeRequest
+
+@{
+    ViewBag.Title = "Print";
+}
+
+<h2 class="text-dark font-weight-bold">Загруженный заказ</h2>
+
+<div class="jumbotron">
+    <p>Заказчик : @Model.FullName </p>
+    <p>Цена : @Model.Price </p>
+    <p>Дата заказа : @Model.OrderDate.ToShortDateString() </p>
+    <p>Дата выполнения заказа : @Model.Deadline.Date.ToShortDateString() </p>
+
+    <table class="table table-bordered table-striped table-dark">
+        <tr><th>Форма торта</th><th>Тип коржа</th><th>Кол-во ярусов</th><th>Начинка</th><th>Декорации</th></tr>
+
+        @foreach (var cake in Model.TypeCakes)
+        {
+            <tr>
+                <td>@cake.CakeShape</td>
+                <td>@cake.ShellType</td>
+                <td align="center">@cake.NumberTiers</td>
+                <td>@cake.FillingType</td>
+
+                <td>
+                    @foreach (var dec in cake.DecorationType)
+                    {
+                        <div>@dec</div>
+                    }
+
+                </td>
+
+            </tr>
+        }
+
+    </table>
+</div>
+
+<body>
+</body>

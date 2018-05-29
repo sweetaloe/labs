@@ -35,10 +35,12 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.Wheat;
+            this.button1.BackColor = System.Drawing.Color.MintCream;
             this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Segoe Script", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button1.Location = new System.Drawing.Point(166, 71);
+            this.button1.Location = new System.Drawing.Point(166, 61);
             this.button1.Margin = new System.Windows.Forms.Padding(5, 7, 5, 7);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(146, 80);
@@ -49,10 +51,12 @@
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.Wheat;
+            this.button2.BackColor = System.Drawing.Color.MintCream;
             this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.button2.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Segoe Script", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button2.Location = new System.Drawing.Point(166, 186);
+            this.button2.Location = new System.Drawing.Point(166, 168);
             this.button2.Margin = new System.Windows.Forms.Padding(5, 7, 5, 7);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(146, 80);
@@ -65,20 +69,22 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 27F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
             this.BackColor = System.Drawing.Color.White;
-            this.BackgroundImage = global::Graphic_Interface.Properties.Resources._082036_1412914836;
+            this.BackgroundImage = global::Graphic_Interface.Properties.Resources.Торт;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.ClientSize = new System.Drawing.Size(484, 361);
+            this.ClientSize = new System.Drawing.Size(484, 321);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.DoubleBuffered = true;
             this.Font = new System.Drawing.Font("Segoe Script", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(6, 7, 6, 7);
-            this.MaximumSize = new System.Drawing.Size(500, 400);
-            this.MinimumSize = new System.Drawing.Size(500, 400);
+            this.MaximumSize = new System.Drawing.Size(500, 360);
+            this.MinimumSize = new System.Drawing.Size(500, 360);
             this.Name = "Form1";
-            this.Text = "Order Cakes";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Заказ тортов";
             this.ResumeLayout(false);
 
         }

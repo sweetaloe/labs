@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Загрузи заказ";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div class="jumbotron">
+
+    <h3>@ViewBag.Message</h3>
+    <p>Сюда вы можете загрузить свой заказ, изменить его или создать новый!</p>
+
+
+    @using (Html.BeginForm("Print", "Upload", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <input type="file" name="file" />
+        <input type="submit" name="Submit" id="Submit" value="Загрузить" />
+    }
+
+
+</div>
+
+<body>
+</body>

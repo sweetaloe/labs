@@ -21,5 +21,10 @@ namespace OrderCakes
                 return (CakeRequest)Xs.Deserialize(fileStream);
             }
         }
+
+        public static CakeRequest LoadFromStream(Stream file)
+        {
+            return (CakeRequest)Xs.Deserialize(file);
+        }
     }
 }

@@ -63,9 +63,9 @@ namespace Graphic_Interface.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _082036_1412914836 {
+        internal static System.Drawing.Bitmap Cake4 {
             get {
-                object obj = ResourceManager.GetObject("082036_1412914836", resourceCulture);
+                object obj = ResourceManager.GetObject("Cake4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace Graphic_Interface.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Title {
+        internal static System.Drawing.Bitmap Торт {
             get {
-                object obj = ResourceManager.GetObject("Title", resourceCulture);
+                object obj = ResourceManager.GetObject("Торт", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -27,12 +27,12 @@ namespace OrderCakes
         /// <summary>
         /// Тип торта
         /// </summary>
-        public Types TypeCakes { get; set; }
+        public List <Types> TypeCakes { get; set; }
 
         /// <summary>
         /// Стоимость
         /// </summary>
-        public double Price { get; set; }
+        public string Price { get; set; }
     }
 
     /// <summary>
@@ -59,7 +59,7 @@ namespace OrderCakes
         /// <summary>
         /// Оформление торта
         /// </summary>
-        public Decoration DecorationType { get; set; }
+        public List <Decoration> DecorationType { get; set; }
 
     }
 
