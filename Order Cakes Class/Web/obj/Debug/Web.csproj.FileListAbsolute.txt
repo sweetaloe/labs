@@ -98,3 +98,22 @@ D:\git\omgwhat\Order Cakes Class\Web\obj\Debug\Web.dll
 D:\git\omgwhat\Order Cakes Class\Web\obj\Debug\Web.pdb
 D:\git\omgwhat\Order Cakes Class\Web\bin\Order Cakes Class Library.dll
 D:\git\omgwhat\Order Cakes Class\Web\bin\Order Cakes Class Library.pdb
+D:\git\omgwhat\Order Cakes Class\Web\bin\EntityFramework.dll
+D:\git\omgwhat\Order Cakes Class\Web\bin\EntityFramework.SqlServer.dll
+D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.Owin.dll
+D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.Owin.Security.dll
+D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\git\omgwhat\Order Cakes Class\Web\bin\Owin.dll
+D:\git\omgwhat\Order Cakes Class\Web\bin\EntityFramework.xml
+D:\git\omgwhat\Order Cakes Class\Web\bin\EntityFramework.SqlServer.xml
+D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.Owin.xml
+D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.Owin.Security.xml
+D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.Owin.Security.OAuth.xml

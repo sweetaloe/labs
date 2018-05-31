@@ -1,0 +1,10 @@
+D:\git\omgwhat\Order Cakes Class\License\bin\Debug\License.exe.config
+D:\git\omgwhat\Order Cakes Class\License\bin\Debug\License.exe
+D:\git\omgwhat\Order Cakes Class\License\bin\Debug\License.pdb
+D:\git\omgwhat\Order Cakes Class\License\bin\Debug\Order Cakes Class Library.dll
+D:\git\omgwhat\Order Cakes Class\License\bin\Debug\Order Cakes Class Library.pdb
+D:\git\omgwhat\Order Cakes Class\License\obj\Debug\License.csprojResolveAssemblyReference.cache
+D:\git\omgwhat\Order Cakes Class\License\obj\Debug\License.csproj.CoreCompileInputs.cache
+D:\git\omgwhat\Order Cakes Class\License\obj\Debug\License.csproj.CopyComplete
+D:\git\omgwhat\Order Cakes Class\License\obj\Debug\License.exe
+D:\git\omgwhat\Order Cakes Class\License\obj\Debug\License.pdb

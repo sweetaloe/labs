@@ -19,6 +19,7 @@ namespace Graphic_Interface
 
         }
 
+
         private void button1_Click(object sender, EventArgs e)
         {
             Form2 form2 = new Form2();
@@ -33,6 +34,21 @@ namespace Graphic_Interface
             
             form2.OpenFile();
             
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            var lv = new OrderCakes.LicenceValidator();
+            if (!lv.HasLicense)
+            {
+                MessageBox.Show("Лицензия не найдена", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                Application.Exit();
+            }
+            if (!lv.IsValid)
+            {
+                MessageBox.Show("Срок действия лицензии истёк", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                Application.Exit();
+            }
         }
     }
 }
