@@ -117,3 +117,5 @@ D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.Owin.xml
 D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.Owin.Security.xml
 D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.Owin.Security.Cookies.xml
 D:\git\omgwhat\Order Cakes Class\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\git\omgwhat\Order Cakes Class\Web\obj\Debug\Web.Migrations.MigrateDB.resources
+D:\git\omgwhat\Order Cakes Class\Web\obj\Debug\Web.csproj.GenerateResource.cache
